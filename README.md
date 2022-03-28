@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soyel-Akter-Habib
-- 👀 I’m interested in Programming
-- 🌱 I’m currently persuing B-Tech
-- 💞️ I’m looking to collaborate on Open Source
+- 👀 I’m interested in Programming/ Writing Codes
+- 🌱 I’m currently persuing B-Tech CSE
+- 💞️ I’m looking to contribute in Open Source
 - 📫 How to reach me : 7384236914 / soyelakterhabib@gmail.com
 
 <!---
